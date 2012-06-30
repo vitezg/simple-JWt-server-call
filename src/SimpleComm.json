@@ -1,0 +1,8 @@
+{
+"port":8888,
+"servletfile":"SimpleComm",
+"servletclass":"SimpleComm",
+"pidfile":"/tmp/jruby-pidfile",
+"stopfile":"/tmp/jruby-please-stop-",
+"basedir":"/tmp/"
+}
